@@ -36,7 +36,7 @@ export default {
   },
   methods: {
     gotoChineseChess () {
-      window.location.href = 'https://kodywang1994.github.io/chinese-chess/dist/index.html'
+      window.location.href = 'https://22g.top/cnxq'
     }
   }
 }
